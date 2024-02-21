@@ -20,51 +20,51 @@ const rolesRights: RoleRights = {
     home: {
       link: '/',
       title: 'Home',
-      path: './components/admin/Home',
+      path: './components/templates/admin-area/Home',
     },
     about: {
       link: '/about',
       title: 'About',
-      path: './components/admin/About',
+      path: './components/templates/admin-area/About',
     },
     contact: {
       link: '/contact',
       title: 'Contact',
-      path: './components/admin/Contact',
+      path: './components/templates/admin-area/Contact',
     },
   },
   customer: {
     home: {
       link: '/',
       title: 'Home',
-      path: './components/customer/Home',
+      path: './components/templates/customer-area/Home',
     },
     about: {
       link: '/about',
       title: 'About',
-      path: './components/customer/About',
+      path: './components/templates/customer-area/About',
     },
     contact: {
       link: '/contact',
       title: 'Contact',
-      path: './components/customer/Contact',
+      path: './components/templates/customer-area/Contact',
     },
   },
   client: {
     home: {
       link: '/',
       title: 'Home',
-      path: './components/client/Home',
+      path: './components/templates/client-area/Home',
     },
     about: {
       link: '/about',
       title: 'About',
-      path: './components/client/About',
+      path: './components/templates/client-area/About',
     },
     contact: {
       link: '/contact',
       title: 'Contact',
-      path: './components/client/Contact',
+      path: './components/templates/client-area/Contact',
     },
   },
 };
