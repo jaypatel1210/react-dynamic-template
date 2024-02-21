@@ -1,0 +1,55 @@
+[
+  {
+    "admin": {
+      "home": {
+        "link": "/",
+        "title": "Home",
+        "path": "./components/admin/About"
+      },
+      "about": {
+        "link": "/about",
+        "title": "About",
+        "path": "./components/admin/Home"
+      },
+      "contact": {
+        "link": "/contact",
+        "title": "Contact",
+        "path": "./components/admin/Contact"
+      }
+    },
+    "customer": {
+      "home": {
+        "link": "/",
+        "title": "Home",
+        "path": "./components/customer/Home"
+      },
+      "about": {
+        "link": "/about",
+        "title": "About",
+        "path": "./components/customer/About"
+      },
+      "contact": {
+        "link": "/contact",
+        "title": "Contact",
+        "path": "./components/customer/Contact"
+      }
+    },
+    "client": {
+      "home": {
+        "link": "/",
+        "title": "Home",
+        "path": "./components/client/Home"
+      },
+      "about": {
+        "link": "/about",
+        "title": "About",
+        "path": "./components/client/About"
+      },
+      "contact": {
+        "link": "/contact",
+        "title": "Contact",
+        "path": "./components/client/Contact"
+      }
+    }
+  }
+]
